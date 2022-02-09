@@ -1,9 +1,9 @@
 package com.rick.util;
 
 /**
- * @author fengrui03
+ * @author fengrui
  * @date 2022/2/9
- * @description
+ * @description java8日期时间工具类
  */
 public class DateTimeUtil {
 
