@@ -1,4 +1,4 @@
-package com.rick.util;
+package com.rick.datetime;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
